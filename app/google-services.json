@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62488508838",
+    "project_id": "umessage-aa46f",
+    "storage_bucket": "umessage-aa46f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62488508838:android:cc0d8f7aae6101dbfef767",
+        "android_client_info": {
+          "package_name": "com.example.umessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Yl9uwfHIgn4BqF3ctUKvUr8Xi3YksYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
